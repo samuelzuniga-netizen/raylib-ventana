@@ -20,3 +20,4 @@
 /Users/bluecanvas/Trabajo_2/obj/Debug/net10.0/Trabajo_2.pdb
 /Users/bluecanvas/Trabajo_2/obj/Debug/net10.0/Trabajo_2.genruntimeconfig.cache
 /Users/bluecanvas/Trabajo_2/obj/Debug/net10.0/ref/Trabajo_2.dll
+/Users/bluecanvas/Trabajo_2/obj/Debug/net10.0/Trabajo_2.sourcelink.json
