@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1I2K1TXZHE=",
+  "success": true,
+  "projectFilePath": "/Users/bluecanvas/Trabajo_2/Trabajo_2.csproj",
+  "expectedPackageFiles": [
+    "/Users/bluecanvas/.nuget/packages/raylib-cs/8.0.0/raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
